@@ -39,11 +39,11 @@ customer-churn-analysis/
 ├── sql/
 │   ├── schema.sql
 │   ├── import.sql
-│   └── analysis_queries.sql
+│   └── analysis.sql
 │
 ├── dashboard/
-│   ├── Customer_Churn_Dashboard.png
-│   └── Customer_Churn_Dashboard.twb
+│   ├── Dashboard Tableau.png
+│   └── Dashboard.twb
 │
 ├── insights.md
 │
